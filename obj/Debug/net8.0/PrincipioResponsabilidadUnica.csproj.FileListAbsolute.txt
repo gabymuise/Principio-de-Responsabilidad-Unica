@@ -1,0 +1,14 @@
+C:\Users\gabri\source\repos\PrincipioResponsabilidadUnica\bin\Debug\net8.0\PrincipioResponsabilidadUnica.exe
+C:\Users\gabri\source\repos\PrincipioResponsabilidadUnica\bin\Debug\net8.0\PrincipioResponsabilidadUnica.deps.json
+C:\Users\gabri\source\repos\PrincipioResponsabilidadUnica\bin\Debug\net8.0\PrincipioResponsabilidadUnica.runtimeconfig.json
+C:\Users\gabri\source\repos\PrincipioResponsabilidadUnica\bin\Debug\net8.0\PrincipioResponsabilidadUnica.dll
+C:\Users\gabri\source\repos\PrincipioResponsabilidadUnica\bin\Debug\net8.0\PrincipioResponsabilidadUnica.pdb
+C:\Users\gabri\source\repos\PrincipioResponsabilidadUnica\obj\Debug\net8.0\PrincipioResponsabilidadUnica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\source\repos\PrincipioResponsabilidadUnica\obj\Debug\net8.0\PrincipioResponsabilidadUnica.AssemblyInfoInputs.cache
+C:\Users\gabri\source\repos\PrincipioResponsabilidadUnica\obj\Debug\net8.0\PrincipioResponsabilidadUnica.AssemblyInfo.cs
+C:\Users\gabri\source\repos\PrincipioResponsabilidadUnica\obj\Debug\net8.0\PrincipioResponsabilidadUnica.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\PrincipioResponsabilidadUnica\obj\Debug\net8.0\PrincipioResponsabilidadUnica.dll
+C:\Users\gabri\source\repos\PrincipioResponsabilidadUnica\obj\Debug\net8.0\refint\PrincipioResponsabilidadUnica.dll
+C:\Users\gabri\source\repos\PrincipioResponsabilidadUnica\obj\Debug\net8.0\PrincipioResponsabilidadUnica.pdb
+C:\Users\gabri\source\repos\PrincipioResponsabilidadUnica\obj\Debug\net8.0\PrincipioResponsabilidadUnica.genruntimeconfig.cache
+C:\Users\gabri\source\repos\PrincipioResponsabilidadUnica\obj\Debug\net8.0\ref\PrincipioResponsabilidadUnica.dll
